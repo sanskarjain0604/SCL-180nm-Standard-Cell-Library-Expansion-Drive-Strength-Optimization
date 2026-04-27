@@ -1,0 +1,2 @@
+# SCL-180nm-Standard-Cell-Library-Expansion-Drive-Strength-Optimization
+This analysis identifies a specific drive-strength gap within the AND and XOR gate families of the SCL 180nm library. By comparing normalized delay trends against the 65nm node, this work proposes the addition of X1.5 drive variants to mitigate oversizing and optimize the power-performance-area (PPA) footprint of marginally critical paths.
